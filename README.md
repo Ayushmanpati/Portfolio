@@ -1,4 +1,4 @@
-🌐 Ayushman Pati - Portfolio Website
+## 🌐 Ayushman Pati - Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and contact information, and serves as an online resume and project hub.
 
@@ -37,18 +37,10 @@ To run the project locally:
 
    You can directly open it by double-clicking the `index.html` file or using a live server extension (e.g., in VS Code).
 
-## 📸 Screenshots
-
-*(Include screenshots or screen recordings of the portfolio layout)*
-
 ## 📫 Contact
 
 Feel free to reach out:
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 🌐 [Website](https://your-portfolio-site.com)
-
 ## 📃 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License .
